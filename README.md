@@ -19,7 +19,7 @@ Beyond the interactive lessons, the FreeCodeCamp community played a crucial role
 To document and showcase my progress, I set up a GitHub repository dedicated to my FreeCodeCamp HTML projects. GitHub serves as a version control system, allowing me to track changes, collaborate with others, and showcase my evolving skills to potential employers.
 
 ## Conclusion
-As I continue my journey with FreeCodeCamp, I am excited about the prospect of mastering HTML and progressing to more advanced web technologies. The platform's combination of structured learning, hands-on projects, and community support has made my HTML learning experience both enjoyable and rewarding.
+As I continue my journey with FreeCodeCamp, I am excited about the prospect of mastering HTML and progressing to more advanced web technologies. The platform's combination of structured learning, hands-on projects, and community support has made my HTML learning experience both enjoyable and rewarding. 
 
 ## Youtube Video Link
 https://youtu.be/dX8396ZmSPk?si=2t4ZRYj1e565-C2v
