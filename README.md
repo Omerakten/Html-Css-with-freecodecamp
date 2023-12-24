@@ -1,6 +1,6 @@
 # My HTML Learning Journey with FreeCodeCamp Youtube
 
-## Introduction
+## Introduction 
 Embarking on a journey to enhance my web development skills, I decided to dive into HTML through FreeCodeCamp. This platform has proven to be an invaluable resource, providing a structured and hands-on approach to learning this fundamental web technology.
 
 ## Getting Started
