@@ -1,0 +1,239 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #FFF8F0;
+    color: #55206D;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #190D37;
+    font-family: "League Spartan", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+h2 {
+    color: #000;
+    font-family: "League Spartan", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    /* 111.111% */
+}
+
+.bigtext {
+    color: #331E6A;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-right: 20px;
+
+    /* 177.778% */
+}
+
+#hero-section {
+    display: flex;
+    max-width: 1060px;
+    margin: 0 auto 48px auto;
+}
+
+#hero-text {
+    /* Açıklama: padding: [üst] [sağ] [alt] [sol] */
+    padding: 32px 0 32px 0px;
+    width: 60%;
+}
+
+#hero-image-width {
+    width: 50%;
+}
+
+#hero-image {
+    width: 100%;
+    border-bottom-right-radius:150px;
+}
+
+.smalltext {
+    color: #000;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 20px;
+}
+
+#hi-and-name {
+    margin-top: 20px;
+}
+
+#contact-button {
+    display: block;
+    width: 138px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #2F2F2F;
+
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    margin-top: 20px;
+}
+
+#pricing-section {
+    max-width: 1060px;
+    margin: 48px auto;
+}
+
+.overtitle {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2858FF;
+    margin-bottom: 8px;
+}
+
+.section-heading {
+    text-align: center;
+    max-width: 700px;
+    font-weight: 750;
+    margin: 0 auto;
+}
+
+.section-subtitle {
+    text-align: center;
+    margin: 8px auto 48px auto;
+    max-width: 700px;
+}
+
+#pricing-boxes {
+    display: flex;
+}
+
+.pricing-box {
+    width: 33.33%;
+}
+
+.pricing-card {
+    background-color: #FFFFFF;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    padding: 20px;
+}
+
+.service {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #2858FF;
+}
+
+.price {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    color: #000000;
+    margin-top: 8px;
+
+}
+
+.price-per-page {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #8A8A8A;
+
+}
+
+.service-description {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #8B8B8B;
+    margin-top: 8px;
+}
+
+.service-benefits {
+    color: #666;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0;
+    list-style-type: none;
+}
+
+.service-benefits li {
+    margin: 8px;
+    color: #666;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.service-contact-button {
+    width: 100%;
+    height: 44px;
+    border-radius: 4px;
+    border: 2px solid #2F2F2F;
+    background-color: #FFFFFF;
+
+    color: #2F2F2F;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.service-contact-button :hover {
+    background-color: #2F2F2F;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 48px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+ 
+}
