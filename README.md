@@ -1,8 +1,8 @@
 # My HTML Learning Journey with FreeCodeCamp Youtube
 
-## Introduction
+## Introduction 
 Embarking on a journey to enhance my web development skills, I decided to dive into HTML through FreeCodeCamp. This platform has proven to be an invaluable resource, providing a structured and hands-on approach to learning this fundamental web technology.
-
+ 
 ## Getting Started
 The journey began with the basics, understanding the structure of HTML and its role in creating the foundation of a webpage. FreeCodeCamp's interactive lessons made it easy to grasp the core concepts, from tags and attributes to the importance of proper indentation.
 
@@ -19,7 +19,7 @@ Beyond the interactive lessons, the FreeCodeCamp community played a crucial role
 To document and showcase my progress, I set up a GitHub repository dedicated to my FreeCodeCamp HTML projects. GitHub serves as a version control system, allowing me to track changes, collaborate with others, and showcase my evolving skills to potential employers.
 
 ## Conclusion
-As I continue my journey with FreeCodeCamp, I am excited about the prospect of mastering HTML and progressing to more advanced web technologies. The platform's combination of structured learning, hands-on projects, and community support has made my HTML learning experience both enjoyable and rewarding.
+As I continue my journey with FreeCodeCamp, I am excited about the prospect of mastering HTML and progressing to more advanced web technologies. The platform's combination of structured learning, hands-on projects, and community support has made my HTML learning experience both enjoyable and rewarding. 
 
 ## Youtube Video Link
 https://youtu.be/dX8396ZmSPk?si=2t4ZRYj1e565-C2v
