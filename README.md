@@ -2,7 +2,7 @@
 
 ## Introduction 
 Embarking on a journey to enhance my web development skills, I decided to dive into HTML through FreeCodeCamp. This platform has proven to be an invaluable resource, providing a structured and hands-on approach to learning this fundamental web technology.
-  
+   
 ## Getting Started
 The journey began with the basics, understanding the structure of HTML and its role in creating the foundation of a webpage. FreeCodeCamp's interactive lessons made it easy to grasp the core concepts, from tags and attributes to the importance of proper indentation.
 
