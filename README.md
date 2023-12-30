@@ -5,7 +5,7 @@ Embarking on a journey to enhance my web development skills, I decided to dive i
    
 ## Getting Started
 The journey began with the basics, understanding the structure of HTML and its role in creating the foundation of a webpage. FreeCodeCamp's interactive lessons made it easy to grasp the core concepts, from tags and attributes to the importance of proper indentation. 
-
+ 
 ## Hands-On Practice
 What sets FreeCodeCamp apart is the emphasis on hands-on practice. The platform offers coding challenges and projects that reinforce theoretical knowledge. I found myself creating various HTML documents, experimenting with different elements, and gaining confidence in my coding abilities.
 
